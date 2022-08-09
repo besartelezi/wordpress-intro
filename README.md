@@ -38,6 +38,16 @@ Wordpress really cracked down on the people who aren't willing to pay for their 
 Now even adding some custom inline CSS is impossible.
 So like all things in life, if you ain't got the money, you ain't getting the honey, honey.
 
+## My Thoughts On Wordpress
+I really dislike using wordpress.
+Unless you throw a stack of money and buy a lot of stuff, you have 0 freedom when creating websites.
+And being so limited might not be a problem for beginners, but personally, I really dislike being so limited in what I can add and edit.
+I'd rather make a lot of mistakes, learn from them, and create my very own personal website, than create a custom-made artificial website with Wordpress.
+
+So this assignment was a good slap in the face.
+It made me realize how far I've come and how much I've learned.
+I'm proud of all the assignments and projects I have done with BeCode, and I'm thrilled at the thought of whatever wacky stuff I'll create in the future.
+
 ---
 
 ### To-Do List
