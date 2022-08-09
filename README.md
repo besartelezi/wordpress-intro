@@ -1,4 +1,6 @@
 # Wordpress, My Sworn Arch-Nemesis
+Check out the wordpress website [right here!](artdeco422143874.wordpress.com)
+
 This assignment, we will learn how to work with Wordpress.
 We need to create our very own website, and use our CSS and HTML knowledge to change the stuff a non-developer wouldn't know how to change.
 I already have some prior experience with Wordpress (and Wix, unfortunately), so I think I'll do a fine job of this assignment.
@@ -20,6 +22,14 @@ So when I heard we had to make a Wordpress website, I immediately made a meme ab
 All in all, I am looking forward to see just how much I have improved since I made my first website.
 And how much more freedom I have obtained in Wordpress now that I'm fluent in all these WebDev languages!
 
+## Wordpress.com V.S. Local Wordpress
+The first thing I realized when using wordpress.com, is that it is about 4293x times more annoying than the wordpress builder I installed locally.
+Just to add plugins, I had to upgrade to a business plan.
+So the option of working with Elementor, my preferred way of creating websites on Wordpress, is off the table.
+Working without plugins on wordpress is like playing eating raw butter with a spoon.
+It's not illegal, but it should be.
+
+
 ---
 
 ### To-Do List
@@ -28,19 +38,19 @@ And how much more freedom I have obtained in Wordpress now that I'm fluent in al
 - [x] Choose a domain name for your website, then select the free option.
 - [x] Don't worry, you don't have to pay. Click the obscurely hidden "start with a free site" link.
 - [x] Let's start building!
-- [ ] Choose a theme if you want to do this on easy mode, use a blank canvas if you want more of a challenge!
-    - [ ] Some themes will have a blog-like homepage. The content on this page will be generated based on which posts you make.
-    - [ ] This makes it pretty limited as to how we're able to customise our homepage
-    - [ ] This will also change some features in your UI, like the "edit" feature on your homepage.
-    - [ ] You will be able to make changes to your homepage, but way more limited than on "regular" pages.
-    - [ ] If you want to change your theme to a different one, click on "My Home" in the menu and next "Change theme"
-- [ ] There's a couple steps Wordpress gives you in the "Site setup" menu, complete them.
-    - [ ] Pay attention to their explanations, their tutorials help you understand how to interact with their UI
-    - [ ] If you want to skip all tutorials, that's fine too, it should be manageable to understand.
-    - [ ] If you skip the tutorials and things are not clear, you might want to revisit the tutorials.
-- [ ] When done following the steps, you can launch your website.
-    - [ ] Again, you don't need to pay. Scroll to the bottom of the page for your free option.
-    - [ ] While choosing the plan, you also do not need to pay.
+- [x] Choose a theme if you want to do this on easy mode, use a blank canvas if you want more of a challenge!
+    - Some themes will have a blog-like homepage. The content on this page will be generated based on which posts you make.
+    - This makes it pretty limited as to how we're able to customise our homepage
+    - This will also change some features in your UI, like the "edit" feature on your homepage.
+    - You will be able to make changes to your homepage, but way more limited than on "regular" pages.
+    - If you want to change your theme to a different one, click on "My Home" in the menu and next "Change theme"
+- [x] There's a couple steps Wordpress gives you in the "Site setup" menu, complete them.
+    - [x] Pay attention to their explanations, their tutorials help you understand how to interact with their UI
+    - [x] If you want to skip all tutorials, that's fine too, it should be manageable to understand.
+    - [x] If you skip the tutorials and things are not clear, you might want to revisit the tutorials.
+- [x] When done following the steps, you can launch your website.
+    - [x] Again, you don't need to pay. Scroll to the bottom of the page for your free option.
+    - [x] While choosing the plan, you also do not need to pay.
 - [ ] Now make a repository, add a README and put the link to your website in there.
 - [ ] Let's have a look at our pages, click on the "Pages" tab in the menu
     - [ ] You now get an overview of your Published, Drafted, Scheduled and Trashed pages.
